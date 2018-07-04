@@ -1,0 +1,13 @@
+REPOSITORY TAG IMAGE
+hyperledger/fabric-ca 1.2.0 66cc132bd09c
+hyperledger/fabric-tools 1.2.0 379602873003
+hyperledger/fabric-tools amd64-1.2.0 379602873003
+hyperledger/fabric-ccenv 1.2.0 6acf31e2d9a4
+hyperledger/fabric-ccenv amd64-1.2.0 6acf31e2d9a4
+hyperledger/fabric-orderer 1.2.0 4baf7789a8ec
+hyperledger/fabric-orderer amd64-1.2.0 4baf7789a8ec
+hyperledger/fabric-peer 1.2.0 82c262e65984
+hyperledger/fabric-peer amd64-1.2.0 82c262e65984
+hyperledger/fabric-zookeeper 0.4.8 1ffd64c98bad
+hyperledger/fabric-kafka 0.4.8 12d61042b176
+hyperledger/fabric-couchdb 0.4.8 12eb8cf6aba1
